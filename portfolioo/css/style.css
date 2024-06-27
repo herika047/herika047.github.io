@@ -106,6 +106,7 @@ p {
     padding: 50px 0;
     backdrop-filter:blur(50px);
     height:100px;
+    margin-top: 20px;
     
 }
 
