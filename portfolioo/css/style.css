@@ -171,7 +171,6 @@ p {
 
 .modulo-potfolio .botoes {
     padding: 10px 0;
-    background-color: yellow;
 }
 
 .modulo-potfolio a {
@@ -196,7 +195,7 @@ p {
     color: #fff;
     border: none;
     width: 95%; 
-    max-width: 416px; 
+    max-width: 600px; 
     background-color: yellow;
     
 }
