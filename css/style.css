@@ -26,13 +26,11 @@ body {
     background: #3a3aff;
 }
 
-/*-------------FUNDO-------------*/
 .fundo-preto {
     width: 100%;
     margin: auto;
 }
 
-/*----------------------------------------*/
 
 h1 {
     font-size: 2em;
@@ -106,7 +104,6 @@ p {
     color: var(--roxo);
 }
 
-/*----------------------SOBRE MIM----------------------*/
 .sobre-mim {
     width: 800px;
     margin: auto;
@@ -132,7 +129,6 @@ p {
     line-height: 1.8;
 }
 
-/*---------------PORTFOLIO---------------*/
 .potfolio {
     width: 800px;
     margin: auto;
@@ -202,14 +198,14 @@ p {
     cursor: pointer;
     color: #fff;
     border: none;
-    width: 95%; /* Largura padrão até 550px */
-    max-width: 416px; /* Nova largura máxima para telas menores que 416px */
+    width: 95%; 
+    max-width: 416px; 
     
 }
 
 @media (max-width: 416px) {
     .botao_link {
-        width: 110%; /* Para ocupar toda a largura disponível */
+        width: 110%; 
     }
 }
 
@@ -247,12 +243,12 @@ p {
         margin-top: 0;
     }
 
-    /*----------------------SOBRE MIM----------------------*/
+    
     .sobre-mim {
         width: 90%;
     }
 
-    /*---------------PORTFOLIO---------------*/
+
     .potfolio {
         width: 90%;
     }
